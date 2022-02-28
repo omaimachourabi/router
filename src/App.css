@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 10px;
+
+}
+
+.movieList{
+  display: flex;
+  justify-content: center;
+
+}
